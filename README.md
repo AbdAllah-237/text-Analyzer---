@@ -1,4 +1,4 @@
-#Text Analyzer
+# Text Analyzer
 
 Text Analyzer is a Python program that reads a text file and provides basic analysis, including:
 
