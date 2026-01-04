@@ -1,0 +1,4 @@
+📂 Requirements
+Python 3.x
+Standard libraries: string, re, collections (no extra installation needed)
+ 
