@@ -28,8 +28,13 @@ This version is simple and works with any text file you provide.
 
 ## Results will be like this :
 Word Count: 350
+
 Sentence Count: 20
+
 Top 10 Most Frequent Words:
+
 python: 15
+
 text: 12
+
 analyze: 10
