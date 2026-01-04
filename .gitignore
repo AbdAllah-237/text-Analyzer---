@@ -143,6 +143,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+###
+.idea/
+*.iml
+__pycache__/
+*.pyc
+
+git rm -r --cached .idea
+git commit -m "Remove IDE config files from repo"
+git push
 
 # Spyder project settings
 .spyderproject
