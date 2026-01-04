@@ -1,12 +1,12 @@
+#importing required libraries
 import string
+import re
+from collections import Counter
+#reading the file using its directory
 file_path = input("Enter the path to your text file: ")
 with open(file_path, "r", encoding="utf-8") as file:
     text = file.read()
-    
-
-import re
-from collections import Counter
-
+#defining the analysis function    
 def analyze_text(text):
     # Sentence count ( )
     cleaned_for_sentences = re.sub(r'(\d)\.(\d)', r'\1\2', text)
@@ -36,3 +36,4 @@ if __name__ == "__main__":
     for word, count in top_words:
 
         print(f"{word}: {count}")
+
