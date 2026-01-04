@@ -20,7 +20,7 @@ This version is simple and works with any text file you provide.
 ## 🚀 How to Use
 
 1. Save your text file anywhere on your computer.  
-2. Open the Python script (`textAnalyzer_AbdAllah.py`).  
+2. Open the Python script (`main.py`).  
 3. enter the path your text file, for example:
 
      ```python
