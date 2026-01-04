@@ -23,10 +23,10 @@ This version is simple and works with any text file you provide.
 2. Open the Python script (`textAnalyzer_AbdAllah.py`).  
 3. Replace the path in the code with the path to your text file, for example:
 
-```python
-r"C:\Users\Softlaptop\Downloads\sample_text.txt"
+     ```python
+     r"C:\Users\Softlaptop\Downloads\sample_text.txt"
 
-### Results will be like this :
+## Results will be like this :
 Word Count: 350
 Sentence Count: 20
 Top 10 Most Frequent Words:
